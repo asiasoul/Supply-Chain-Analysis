@@ -17,4 +17,4 @@ In global logistics, late deliveries are more than a delay—they represent a si
 The final model provides a data-backed roadmap for carrier optimization. By flagging high-risk shipments at the point of order, companies can proactively adjust shipping modes or carriers to mitigate delays.
 
 ---
-*Developed by [Marshal Davis], IBM Certified Data Analyst & Logistics Specialist.*# Supply-Chain-Analysis
+*Developed by Marshal Davis, IBM Certified Data Analyst & Logistics Specialist.*# Supply-Chain-Analysis
